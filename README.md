@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [JS Assignment](abc)
+- 🔭 I’m currently working on [Task Manager App]
 
 - 🌱 I’m currently learning **MERN Stack**
 
