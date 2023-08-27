@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **<HTML>, {CSS}, (JS)**
+- 💬 Ask me about **<HTML>, {CSS}, JS, React, Express.**
 
 - 📫 How to reach me **s.mtalha@outlook.com**
 
