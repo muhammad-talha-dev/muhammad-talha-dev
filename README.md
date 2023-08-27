@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-talha-dev" alt="muhammad-talha-dev" /></a> </p>
-
 - 🔭 I’m currently working on **Task Manager App**
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -23,7 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mtalha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mtalha" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-talha-dev&show_icons=true&locale=en&layout=compact" alt="muhammad-talha-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-talha-dev&show_icons=true&locale=en" alt="muhammad-talha-dev" /></p>
