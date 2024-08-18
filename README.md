@@ -3,8 +3,6 @@
 
 <P></P>
 
-- 🔭 I’m currently working on **Task Manager App**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
